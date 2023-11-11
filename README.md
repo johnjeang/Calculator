@@ -2,7 +2,7 @@
 Calculator application that parses text input as mathematical expression
 
 ## Details
-As input the calculator accepts strings representing expressions with operations provided on a 4-function calculator: +,-,*,/,(,). 
+As input the calculator accepts strings representing expressions with operations provided on a 4-function calculator: $+,-,*,/,(,)$. 
 Expressions are evaluated following PEMDAS rules, though exponential functionality is not implemented.
 
 ## Implementation
